@@ -14,8 +14,8 @@ to meet (ideally face-to-face): Monday 1 - 3pm and Wednesday 1 - 3pm
 
 Three one-sentence ideas the team might pursue for the project:
 
-1. Using GO, ...
+1. Using GO, we can take advantage of Goroutines and channels for concurrency to create a exercise interval timer program.
 
-2. Using Scala, ...
+2. Using Scala, we can take advantage of the pattern matching feature to create calculator to calculate some simple statistics. 
 
-3. Using Erlang, ...
+3. Using Erlang, we can take advantage of its concurrency features to create a messenger app.
