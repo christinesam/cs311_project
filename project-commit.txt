@@ -1,8 +1,8 @@
 Team Member Names: Yoony Ok, Ben Gee, Christine Sam
 
-Team Member Student IDs: , , 25834102
+Team Member Student IDs: 41595109, 25305103 , 25834102
 
-Team Member ugrad.cs.ubc.ca Logins: , , t6z9a
+Team Member ugrad.cs.ubc.ca Logins: p7x8, v5e0b, t6z9a
 
 Initial level commitment (80%, 90%, or 100%): 90%
 
