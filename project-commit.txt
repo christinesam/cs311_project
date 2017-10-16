@@ -2,20 +2,20 @@ Team Member Names: Yoony Ok, Ben Gee, Christine Sam
 
 Team Member Student IDs: , , 25834102
 
-Team Member ugrad.cs.ubc.ca Logins:
+Team Member ugrad.cs.ubc.ca Logins: , , t6z9a
 
-Initial level commitment (80%, 90%, or 100%):
+Initial level commitment (80%, 90%, or 100%): 90%
 
 Tutorial time that at least one and ideally all members will guarantee to attend
-each week:
+each week: Monday 2pm
 
 3+ hours weekly that the group guarantees EACH OTHER to be available
-to meet (ideally face-to-face):
+to meet (ideally face-to-face): Monday 1 - 3pm and Wednesday 1 - 3pm
 
 Three one-sentence ideas the team might pursue for the project:
 
-1. 
+1. Using GO, ...
 
-2. 
+2. Using Scala, ...
 
-3.
+3. Using Erlang, ...
